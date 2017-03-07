@@ -13,7 +13,7 @@ namespace WebServiceSample3
     /// <summary>
     /// Summary description for SampleService3
     /// </summary>
-    [WebService(Namespace = "http://www.wrox.com/BeginningCSharp/2010")]
+    [WebService(Namespace = "http://www.haqdata.com/CSharp")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
     [System.ComponentModel.ToolboxItem(false)]
     // To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
