@@ -1,7 +1,8 @@
-//# CSharpWebService
-//SOAP WebService
-//SampleService3.asmx.cs
+**# CSharpWebService**
+**SOAP WebService**
 
+SampleService3.asmx.cs
+```C#
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -62,3 +63,4 @@ namespace WebServiceSample3
     }
 
 }
+```
